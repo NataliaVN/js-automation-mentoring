@@ -1,4 +1,4 @@
-let app = require('C:\\Users\\Volodymyr_Dmytriukhi\\WebstormProjects\\untitled\\app\\1task.js');
+let app = require(process.cwd() + '\\app\\1task.js');
 var assert = require('assert');
 
 describe('', () => {
