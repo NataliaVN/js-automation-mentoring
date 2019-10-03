@@ -9,8 +9,18 @@
  * @param b
  * @returns {undefined}
  */
-let addition = function(a, b) {
-    return undefined;
+let addition = function (a, b) {
+    return 0;
+};
+
+/**
+ * Implement method that returns the lowest argument
+ * @param a
+ * @param b
+ * @param c
+ */
+let min = function(a, b, c) {
+    return 0;
 };
 
 module.exports = addition;
